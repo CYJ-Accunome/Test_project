@@ -1,0 +1,9 @@
+ParamName,ParamAddress,ParamValue,ParamLen,ParamType,ParamProp
+FAMMPPC高档背景BH,0X2BE,240,2,Short,
+CY5MPPC高档背景BH,0X2C4,1980,2,Short,
+VICMPPC高档背景BH,0X2CA,400,2,Short,
+ROXMPPC高档背景BH,0X2D0,4700,2,Short,
+FAMMPPC增益与温度系数KH,0X2D6,-0.029078861,4,Float,
+CY5MPPC增益与温度系数KH,0X2E2,-0.017231421,4,Float,
+VICMPPC增益与温度系数KH,0X2EE,-0.025071221,4,Float,
+ROXMPPC增益与温度系数KH,0X2FA,-0.03459477,4,Float,
